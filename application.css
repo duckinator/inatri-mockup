@@ -51,7 +51,7 @@ h1 {
 
 h2 {font-size: 1.953em;}
 
-h3, .site-subtitle {font-size: 1.563em;}
+h3, .site-description {font-size: 1.563em;}
 
 h4 {font-size: 1.25em;}
 
@@ -75,7 +75,7 @@ header.main { padding-top: 0; }
     margin-bottom: -40px;
     margin-left: -20px;
 }
-.site-subtitle { margin-top: 0; }
+.site-description { margin-top: 0; }
 
 /* START: navigation. */
 
